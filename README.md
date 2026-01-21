@@ -1,4 +1,6 @@
-Strategic Forecasting & Demand Planning 📈
+Walmart sales Strategic Forecasting & Demand Planning 📈
+
+
 📌 Project Overview
 This project involved developing a high-precision predictive model to forecast weekly sales across 45 retail locations. By accurately anticipating demand surges during holiday seasons and promotional events, the model enabled a 18% reduction in inventory variance, directly optimizing capital allocation and reducing warehouse carrying costs.
 Data from :  This project utilizes the Walmart Store Sales dataset (Kaggle) to demonstrate large-scale demand planning and strategic optimization techniques.
